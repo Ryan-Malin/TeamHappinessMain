@@ -1,0 +1,157 @@
+rank,2017,2018,2019,2020,2021
+1.0,Norway,Finland,Finland,Finland,Finland
+2.0,Denmark,Norway,Denmark,Denmark,Denmark
+3.0,Iceland,Denmark,Norway,Switzerland,Switzerland
+4.0,Switzerland,Iceland,Iceland,Iceland,Iceland
+5.0,Finland,Switzerland,Netherlands,Norway,Netherlands
+6.0,Netherlands,Netherlands,Switzerland,Netherlands,Norway
+7.0,Canada,Canada,Sweden,Sweden,Sweden
+8.0,New Zealand,New Zealand,New Zealand,New Zealand,Luxembourg
+9.0,Sweden,Sweden,Canada,Austria,New Zealand
+10.0,Australia,Australia,Austria,Luxembourg,Austria
+11.0,Israel,United Kingdom,Australia,Canada,Australia
+12.0,Costa Rica,Austria,Costa Rica,Australia,Israel
+13.0,Austria,Costa Rica,Israel,United Kingdom,Germany
+14.0,United States,Ireland,Luxembourg,Israel,Canada
+15.0,Ireland,Germany,United Kingdom,Costa Rica,Ireland
+16.0,Germany,Belgium,Ireland,Ireland,Costa Rica
+17.0,Belgium,Luxembourg,Germany,Germany,United Kingdom
+18.0,Luxembourg,United States,Belgium,United States,Czech Republic
+19.0,United Kingdom,Israel,United States,Czech Republic,United States
+20.0,Chile,United Arab Emirates,Czech Republic,Belgium,Belgium
+21.0,United Arab Emirates,Czech Republic,United Arab Emirates,United Arab Emirates,France
+22.0,Brazil,Malta,Malta,Malta,Bahrain
+23.0,Czech Republic,France,Mexico,France,Malta
+24.0,Argentina,Mexico,France,Mexico,Taiwan
+25.0,Mexico,Chile,Taiwan,Taiwan,United Arab Emirates
+26.0,Singapore,Taiwan,Chile,Uruguay,Saudi Arabia
+27.0,Malta,Panama,Guatemala,Saudi Arabia,Spain
+28.0,Uruguay,Brazil,Saudi Arabia,Spain,Italy
+29.0,Guatemala,Argentina,Qatar,Guatemala,Slovenia
+30.0,Panama,Guatemala,Spain,Italy,Guatemala
+31.0,France,Uruguay,Panama,Singapore,Uruguay
+32.0,Thailand,Qatar,Brazil,Brazil,Singapore
+33.0,Taiwan,Saudi Arabia,Uruguay,Slovenia,Kosovo
+34.0,Spain,Singapore,Singapore,El Salvador,Slovakia
+35.0,Qatar,Malaysia,El Salvador,Kosovo,Brazil
+36.0,Colombia,Spain,Italy,Panama,Mexico
+37.0,Saudi Arabia,Colombia,Bahrain,Slovakia,Jamaica
+38.0,Trinidad and Tobago,Trinidad and Tobago,Slovakia,Uzbekistan,Lithuania
+39.0,Kuwait,Slovakia,Trinidad and Tobago,Chile,Cyprus
+40.0,Slovakia,El Salvador,Poland,Bahrain,Estonia
+41.0,Bahrain,Nicaragua,Uzbekistan,Lithuania,Panama
+42.0,Malaysia,Poland,Lithuania,Trinidad and Tobago,Uzbekistan
+43.0,Nicaragua,Bahrain,Colombia,Poland,Chile
+44.0,Ecuador,Uzbekistan,Slovenia,Colombia,Poland
+45.0,El Salvador,Kuwait,Nicaragua,Cyprus,Kazakhstan
+46.0,Poland,Thailand,Kosovo,Nicaragua,Romania
+47.0,Uzbekistan,Italy,Argentina,Romania,Kuwait
+48.0,Italy,Ecuador,Romania,Kuwait,Serbia
+49.0,Russia,Belize,Cyprus,Mauritius,El Salvador
+50.0,Belize,Lithuania,Ecuador,Kazakhstan,Mauritius
+51.0,Japan,Slovenia,Kuwait,Estonia,Latvia
+52.0,Lithuania,Romania,Thailand,Philippines,Colombia
+53.0,Algeria,Latvia,Latvia,Hungary,Hungary
+54.0,Latvia,Japan,South Korea,Thailand,Thailand
+55.0,South Korea,Mauritius,Estonia,Argentina,Nicaragua
+56.0,Moldova,Jamaica,Jamaica,Honduras,Japan
+57.0,Romania,South Korea,Mauritius,Latvia,Argentina
+58.0,Bolivia,North Cyprus,Japan,Ecuador,Portugal
+59.0,Turkmenistan,Russia,Honduras,Portugal,Honduras
+60.0,Kazakhstan,Kazakhstan,Kazakhstan,Jamaica,Croatia
+61.0,North Cyprus,Cyprus,Bolivia,South Korea,Philippines
+62.0,Slovenia,Bolivia,Hungary,Japan,South Korea
+63.0,Peru,Estonia,Paraguay,Peru,Peru
+64.0,Mauritius,Paraguay,North Cyprus,Serbia,Bosnia and Herzegovina
+65.0,Cyprus,Peru,Peru,Bolivia,Moldova
+66.0,Estonia,Kosovo,Portugal,Pakistan,Ecuador
+67.0,Belarus,Moldova,Pakistan,Paraguay,Kyrgyzstan
+68.0,Libya,Turkmenistan,Russia,Dominican Republic,Greece
+69.0,Turkey,Hungary,Philippines,Bosnia and Herzegovina,Bolivia
+70.0,Paraguay,Libya,Serbia,Moldova,Mongolia
+71.0,Hong Kong,Philippines,Moldova,Tajikistan,Paraguay
+72.0,Philippines,Honduras,Libya,Montenegro,Montenegro
+73.0,Serbia,Belarus,Montenegro,Russia,Dominican Republic
+74.0,Jordan,Turkey,Tajikistan,Kyrgyzstan,North Cyprus
+75.0,Hungary,Pakistan,Croatia,Belarus,Belarus
+76.0,Jamaica,Hong Kong,Hong Kong,North Cyprus,Russia
+77.0,Croatia,Portugal,Dominican Republic,Greece,Hong Kong
+78.0,Kosovo,Serbia,Bosnia and Herzegovina,Hong Kong,Tajikistan
+79.0,China,Greece,Turkey,Croatia,Vietnam
+80.0,Pakistan,Lebanon,Malaysia,Libya,Libya
+81.0,Indonesia,Montenegro,Belarus,Mongolia,Malaysia
+82.0,Venezuela,Croatia,Greece,Malaysia,Indonesia
+83.0,Montenegro,Dominican Republic,Mongolia,Vietnam,Congo (Brazzaville)
+84.0,Morocco,Algeria,Macedonia,Indonesia,China
+85.0,Azerbaijan,Morocco,Nigeria,Ivory Coast,Ivory Coast
+86.0,Dominican Republic,China,Kyrgyzstan,Benin,Armenia
+87.0,Greece,Azerbaijan,Turkmenistan,Maldives,Nepal
+88.0,Lebanon,Tajikistan,Algeria,Congo (Brazzaville),Bulgaria
+89.0,Portugal,Macedonia,Morocco,Azerbaijan,Maldives
+90.0,Bosnia and Herzegovina,Jordan,Azerbaijan,Macedonia,Azerbaijan
+91.0,Honduras,Nigeria,Lebanon,Ghana,Cameroon
+92.0,Macedonia,Kyrgyzstan,Indonesia,Nepal,Senegal
+93.0,Somalia,Bosnia and Herzegovina,China,Turkey,Albania
+94.0,Vietnam,Mongolia,Vietnam,China,Macedonia
+95.0,Nigeria,Vietnam,Bhutan,Turkmenistan,Ghana
+96.0,Tajikistan,Indonesia,Cameroon,Bulgaria,Niger
+97.0,Bhutan,Bhutan,Bulgaria,Morocco,Turkmenistan
+98.0,Kyrgyzstan,Somalia,Ghana,Cameroon,Gambia
+99.0,Nepal,Cameroon,Ivory Coast,Venezuela,Benin
+100.0,Mongolia,Bulgaria,Nepal,Algeria,Laos
+101.0,South Africa,Nepal,Jordan,Senegal,Bangladesh
+102.0,Tunisia,Venezuela,Benin,Guinea,Guinea
+103.0,Palestinian Territories,Gabon,Congo (Brazzaville),Niger,South Africa
+104.0,Egypt,Palestinian Territories,Gabon,Laos,Turkey
+105.0,Bulgaria,South Africa,Laos,Albania,Pakistan
+106.0,Sierra Leone,Iran,South Africa,Cambodia,Morocco
+107.0,Cameroon,Ivory Coast,Albania,Bangladesh,Venezuela
+108.0,Iran,Ghana,Venezuela,Gabon,Georgia
+109.0,Albania,Senegal,Cambodia,South Africa,Algeria
+110.0,Bangladesh,Laos,Palestinian Territories,Iraq,Ukraine
+111.0,Namibia,Tunisia,Senegal,Lebanon,Iraq
+112.0,Kenya,Albania,Somalia,Burkina Faso,Gabon
+113.0,Mozambique,Sierra Leone,Namibia,Gambia,Burkina Faso
+114.0,Myanmar,Congo (Brazzaville),Niger,Mali,Cambodia
+115.0,Senegal,Bangladesh,Burkina Faso,Nigeria,Mozambique
+116.0,Zambia,Sri Lanka,Armenia,Armenia,Nigeria
+117.0,Iraq,Iraq,Iran,Georgia,Mali
+118.0,Gabon,Mali,Guinea,Iran,Iran
+119.0,Ethiopia,Namibia,Georgia,Jordan,Uganda
+120.0,Sri Lanka,Cambodia,Gambia,Mozambique,Liberia
+121.0,Armenia,Burkina Faso,Kenya,Kenya,Kenya
+122.0,India,Egypt,Mauritania,Namibia,Tunisia
+123.0,Mauritania,Mozambique,Mozambique,Ukraine,Lebanon
+124.0,Congo (Brazzaville),Kenya,Tunisia,Liberia,Namibia
+125.0,Georgia,Zambia,Bangladesh,Palestinian Territories,Palestinian Territories
+126.0,Congo (Kinshasa),Mauritania,Iraq,Uganda,Myanmar
+127.0,Mali,Ethiopia,Congo (Kinshasa),Chad,Jordan
+128.0,Ivory Coast,Georgia,Mali,Tunisia,Chad
+129.0,Cambodia,Armenia,Sierra Leone,Mauritania,Sri Lanka
+130.0,Sudan,Myanmar,Sri Lanka,Sri Lanka,Swaziland
+131.0,Ghana,Chad,Myanmar,Congo (Kinshasa),Comoros
+132.0,Ukraine,Congo (Kinshasa),Chad,Swaziland,Egypt
+133.0,Uganda,India,Ukraine,Myanmar,Ethiopia
+134.0,Burkina Faso,Niger,Ethiopia,Comoros,Mauritania
+135.0,Niger,Uganda,Swaziland,Togo,Madagascar
+136.0,Malawi,Benin,Uganda,Ethiopia,Togo
+137.0,Chad,Sudan,Egypt,Madagascar,Zambia
+138.0,Zimbabwe,Ukraine,Zambia,Egypt,Sierra Leone
+139.0,Lesotho,Togo,Togo,Sierra Leone,India
+140.0,Angola,Guinea,India,Burundi,Burundi
+141.0,Afghanistan,Lesotho,Liberia,Zambia,Yemen
+142.0,Botswana,Angola,Comoros,Haiti,Tanzania
+143.0,Benin,Madagascar,Madagascar,Lesotho,Haiti
+144.0,Madagascar,Zimbabwe,Lesotho,India,Malawi
+145.0,Haiti,Afghanistan,Burundi,Malawi,Lesotho
+146.0,Yemen,Botswana,Zimbabwe,Yemen,Botswana
+147.0,South Sudan,Malawi,Haiti,Botswana,Rwanda
+148.0,Liberia,Haiti,Botswana,Tanzania,Zimbabwe
+149.0,Guinea,Liberia,Syria,Central African Republic,Afghanistan
+150.0,Togo,Syria,Malawi,Rwanda,
+151.0,Rwanda,Rwanda,Yemen,Zimbabwe,
+152.0,Syria,Yemen,Rwanda,South Sudan,
+153.0,Tanzania,Tanzania,Tanzania,Afghanistan,
+154.0,Burundi,South Sudan,Afghanistan,,
+155.0,Central African Republic,Central African Republic,Central African Republic,,
+156.0,,Burundi,South Sudan,,
