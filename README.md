@@ -14,3 +14,14 @@ Factors that were analyzed:
 **Freedom**: Freedom of choice describes an individual’s opportunity and autonomy to perform an action selected from at least two available options, unconstrained by external parties.
 **Generosity**: is defined as the residual of regressing the national average of responses to the question, “Have you donated money to a charity in past months?” on GDP capita.
 
+# #DATA CLEANING
+# #identify the columns with no regional indicator
+# #happiness_combined_df['Regional indicator'] == ''][['Country','Year']]
+# #pd.pivot_table(happiness_combined_df, values='Country', columns='Year', aggfunc='count')
+# before_clean_df = happiness_combined_df
+# before_clean_df.pivot(index='Country', columns='Year', values='Country').to_csv('Resources/pivoted-for-missing-val.csv')
+#looking at the pivoted data set, it was revealed the countries were named diffrently in
+#diffrent years,to solve that, these countries were renamed to one consistent value across 
+#years. Also, some countries did not have any data for some years. For instance, Belize, 
+#Angola, Congo, Qatar are missing for most recent years. From our google research, it may be
+#due to political situation and or high crime rate these countries.
